@@ -1,6 +1,6 @@
 ## Auditing-datasets
 
-Python project that audits new pilots and returns a number of times they hada weather violation while flying
+Python project that audits new pilots and returns a number of times they had a weather violation while flying
 
 ### Skills Demonstrated
 - Read and write to multiple file types
